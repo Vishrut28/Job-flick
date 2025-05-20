@@ -76,7 +76,7 @@ const Index = () => {
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <Button size="lg" variant="secondary">Sign up as Student</Button>
-            <Button size="lg" variant="outline" className="border-white text-white hover:bg-white/20">Sign up as Recruiter</Button>
+            <Button size="lg" variant="outline" className="border-white/80 text-white hover:bg-white/20">Sign up as Recruiter</Button>
           </div>
         </div>
       </section>
