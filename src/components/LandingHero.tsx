@@ -19,7 +19,7 @@ const LandingHero = () => {
               matching and project portfolios.
             </p>
             <div className="flex flex-col sm:flex-row space-y-3 sm:space-y-0 sm:space-x-3 pt-4">
-              <Button size="lg" asChild>
+              <Button size="lg" className="bg-[#D6BCFA] hover:bg-[#D6BCFA]/90 text-primary" asChild>
                 <Link to="/signup">Get started</Link>
               </Button>
               <Button size="lg" variant="outline" asChild>

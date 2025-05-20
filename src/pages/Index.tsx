@@ -1,4 +1,3 @@
-
 import Navigation from "@/components/Navigation";
 import LandingHero from "@/components/LandingHero";
 import FeatureSection from "@/components/FeatureSection";
@@ -75,8 +74,8 @@ const Index = () => {
             Join thousands of students and companies already using JobFlick to create meaningful career connections.
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
-            <Button size="lg" variant="secondary">Sign up as Student</Button>
-            <Button size="lg" className="bg-blue-300 hover:bg-blue-400 text-primary-foreground font-medium">Sign up as Recruiter</Button>
+            <Button size="lg" className="bg-[#D6BCFA] hover:bg-[#D6BCFA]/90 text-primary font-medium">Sign up as Student</Button>
+            <Button size="lg" className="bg-[#D6BCFA] hover:bg-[#D6BCFA]/90 text-primary font-medium">Sign up as Recruiter</Button>
           </div>
         </div>
       </section>
