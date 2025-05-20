@@ -1,3 +1,4 @@
+
 import Navigation from "@/components/Navigation";
 import LandingHero from "@/components/LandingHero";
 import FeatureSection from "@/components/FeatureSection";
@@ -75,7 +76,7 @@ const Index = () => {
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <Button size="lg" variant="secondary">Sign up as Student</Button>
-            <Button size="lg" variant="outline" className="border-2 border-white text-white hover:bg-white/20 font-medium">Sign up as Recruiter</Button>
+            <Button size="lg" className="bg-blue-300 hover:bg-blue-400 text-primary-foreground font-medium">Sign up as Recruiter</Button>
           </div>
         </div>
       </section>
