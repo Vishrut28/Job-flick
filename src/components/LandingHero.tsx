@@ -40,7 +40,7 @@ const LandingHero = () => {
           </div>
           <div className="rounded-xl overflow-hidden shadow-xl">
             <img 
-              src="https://images.unsplash.com/photo-1605810230434-7631ac76ec81" 
+              src="https://images.unsplash.com/photo-1498050108023-c5249f4df085" 
               alt="JobFlick Platform" 
               className="w-full h-auto"
             />
